@@ -9,7 +9,7 @@ This project implements a **complete Lisp interpreter in OCaml**, integrating th
 3. **Printer** – converts internal `thing` values back to Lisp notation for display.
 Together, these modules form a working Lisp system capable of reading, evaluating, and printing symbolic Lisp code such as the *equation solver* in `solve.txt`.
 
-## 🧠 Theory
+## Theory
 OCaml provides both an **interactive interpreter** (`ocaml`) and two **compilers**:
 - `ocamlc` → bytecode (similar to Java’s `javac` + `java`)  
 - `ocamlopt` → native machine code (runs faster; used here)
