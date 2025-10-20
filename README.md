@@ -1,6 +1,4 @@
-# Lisp Interpreter — CSCI 2041 Lab 12 & Project 3
-**University of Minnesota – Advanced Programming Principles (Spring 2025)**  
-*Author: Justin Yun*
+# Lisp Interpreter
 
 ## Overview
 This project implements a **complete Lisp interpreter in OCaml**, integrating three main components:
